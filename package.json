@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-node",
+  "version": "1.0.0",
+  "description": "rest api con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrezgalle/rest-api-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrezgalle/rest-api-node/issues"
+  },
+  "homepage": "https://github.com/andrezgalle/rest-api-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
